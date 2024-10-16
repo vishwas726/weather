@@ -1,0 +1,10 @@
+.wetherWrapper{
+
+width: fit-content;
+margin: auto;
+display: flex;
+flex-direction: column;
+}
+.info{
+  /* margin: auto; */
+}
